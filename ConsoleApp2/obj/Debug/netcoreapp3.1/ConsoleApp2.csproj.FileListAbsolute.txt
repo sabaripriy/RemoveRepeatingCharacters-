@@ -1,0 +1,13 @@
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+E:\DivyaDocuments\VisualStudioApp\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
